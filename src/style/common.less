@@ -1,0 +1,28 @@
+/*
+ * @Author: luzhenqian 
+ * @Date: 2018-10-03 10:18:12 
+ * @Last Modified by: mikey.zhaopeng
+ * @Last Modified time: 2018-10-07 14:53:41
+ */
+
+@import './default.less';
+.container {
+  display: flex;
+  .nav-left {
+    width: 15%;
+    min-width: 180px;
+    height: calc(100vh);
+    background-color: #001529;
+    overflow:auto;
+  }
+  .main {
+    flex: 1;
+    height: calc(100vh);
+    background-color: @colorC;
+    overflow:auto;
+  }
+  .content {
+    position: relative;
+    padding: 20px;
+  }
+}
