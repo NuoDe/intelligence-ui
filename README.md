@@ -2,10 +2,10 @@
 
 Intelligence是山东诺德公司自主研发的一套完整的开发平台。
 
-##当前版本: v1.0.0
+## 当前版本: v1.0.0
 dfa
 
-##安装
+## 安装
 ```
 npm install
 ```
@@ -14,9 +14,9 @@ npm install
 yarn
 ```
 
-##运行
+## 运行
 
-###开发
+### 开发
 
 ```
 npm run start
@@ -26,7 +26,7 @@ npm run start
 yarn start
 ```
 
-###编译
+### 编译
 ```
 npm run build
 ```
@@ -34,14 +34,14 @@ npm run build
 ```
 yarn build
 ```
-##文档
+## 文档
 暂无
 
-##简介
+## 简介
 暂无
 
-##功能
+## 功能
 暂无
 
-##文件结构
+## 文件结构
 暂无
