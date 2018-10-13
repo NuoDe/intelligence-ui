@@ -2,7 +2,7 @@
  * @Author: luzhenqian 
  * @Date: 2018-10-03 10:17:29 
  * @Last Modified by: luzhenqian
- * @Last Modified time: 2018-10-09 09:19:01
+ * @Last Modified time: 2018-10-11 15:27:50
  */
 export default [
   {
@@ -20,6 +20,10 @@ export default [
       {
         title: '表格',
         key: '/admin/demo/table'
+      },
+      {
+        title: '用戶信息',
+        key: '/admin/demo/userInfo'
       }
     ]
   }

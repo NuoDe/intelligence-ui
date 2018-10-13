@@ -2,7 +2,7 @@
  * @Author: luzhenqian 
  * @Date: 2018-10-03 10:16:55 
  * @Last Modified by: luzhenqian
- * @Last Modified time: 2018-10-04 00:07:11
+ * @Last Modified time: 2018-10-12 11:21:53
  */
 
 import React from 'react'
@@ -43,8 +43,8 @@ export default class NavLeft extends React.Component {
     return (
       <div>
         <div className="logo">
-          <img src="./favicon.ico" alt="1" />
-          <h1>Tide</h1>
+          <img src="./intelligence.ico" alt="1" />
+          <h1>Intelligence framework</h1>
         </div>
         {/* <Menu theme="dark">
                     <SubMenu key="sub1" title="菜单1">
